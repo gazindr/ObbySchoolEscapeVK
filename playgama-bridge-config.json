@@ -1,0 +1,100 @@
+{
+    "platforms": {
+        "game_distribution": {
+            "gameId": ""
+        },
+        "telegram": {
+            "adsgramBlockId": ""
+        },
+        "y8": {
+            "gameId": "",
+            "adsenseId": "",
+            "channelId": ""
+        },
+        "lagged": {
+            "devId": "",
+            "publisherId": ""
+        },
+        "facebook": {
+            "bannerPlacementId": "",
+            "interstitialPlacements": [],
+            "rewardedPlacements": []
+        }
+    },
+    "payments": [
+
+	{
+            "commonId": "bundle_start",
+            "yandex": {
+                "id": "bundle_start"
+            }
+        },
+	{
+            "commonId": "bundle_all_in_one",
+            "yandex": {
+                "id": "bundle_all_in_one"
+            }
+        },
+        {
+            "commonId": "bundle_skin0",
+            "yandex": {
+                "id": "bundle_skin0"
+            }
+        },
+		{
+            "commonId": "bundle_skin1",
+            "yandex": {
+                "id": "bundle_skin1"
+            }
+        },
+		{
+            "commonId": "bundle_skin2",
+            "yandex": {
+                "id": "bundle_skin2"
+            }
+        },
+		{
+            "commonId": "bundle_skin3",
+            "yandex": {
+                "id": "bundle_skin3"
+            }
+        },
+		{
+            "commonId": "bundle_gold0",
+            "yandex": {
+                "id": "bundle_gold0"
+            }, 
+	    "playgama": {
+                "amount": 1
+            },
+            "playdeck": {
+                "amount": 1,
+                "description": "Get 100 coins"
+            }
+        },
+		{
+            "commonId": "bundle_gold1",
+            "yandex": {
+                "id": "bundle_gold1"
+            }
+        },
+		{
+            "commonId": "bundle_crystals0",
+            "yandex": {
+                "id": "bundle_crystals0"
+            }
+        },
+		{
+            "commonId": "bundle_crystals1",
+            "yandex": {
+                "id": "bundle_crystals1"
+            }
+        },
+		{
+            "commonId": "bundle_pets_dragons",
+            "yandex": {
+                "id": "bundle_pets_dragons"
+            }
+        }
+    ]
+}
